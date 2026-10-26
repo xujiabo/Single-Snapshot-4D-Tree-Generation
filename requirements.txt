@@ -1,0 +1,8 @@
+# Install a CUDA-enabled PyTorch build for GPU training.
+torch>=2.1
+# NumPy 1.x also supports the optional bundled KPConv C++ sources.
+numpy>=1.22,<2
+scipy>=1.8
+open3d>=0.17
+matplotlib>=3.5
+pillow>=9
